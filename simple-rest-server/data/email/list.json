@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "subject": "Re: Your Avocode trial has ended",
+        "body": "Re: Your Avocode trial has ended Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in",
+        "isRead": false
+    },
+    {
+        "_id": 2,
+        "subject": "The Future is made in Javascript",
+        "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+        "isRead": false
+    },
+    {
+        "_id": 3,
+        "subject": "Reminder: You’re invited to join Coding Academy",
+        "body": "Reminder: You’re invited to join Coding Academy, It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+        "isRead": false
+    },
+    {
+        "_id": 4,
+        "subject": "Discover interesting projects on GitHub",
+        "body": "Reminder: Discover interesting projects on GitHub It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal",
+        "isRead": false
+    },
+    {
+        "_id": 5,
+        "subject": "Your May Waze Carpool summary",
+        "body": "Your May Waze Carpool summary The point of using Lorem Ipsum is that it has a more-or-less normal",
+        "isRead": false
+    },
+    {
+        "_id": 6,
+        "subject": "30-day challenges: could you do it",
+        "body": "30-day challenges: could you do it? is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal ",
+        "isRead": false
+    }
+]
