@@ -1,4 +1,4 @@
-# todo-bom
+# SPA-vuex
 
 > A Vue.js project
 
@@ -11,6 +11,13 @@ npm install
 npm start
 ````
 select "f"
+
+### Install and use Socket server (at localhost:3000)
+socketio-chat =>
+````
+npm install
+node index.js
+````
 
 ### Install dependencies and serve client side
 ``` 
